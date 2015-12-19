@@ -1,0 +1,25 @@
+C:\Users\CTAC\AppData\Local\Temporary Projects\Journal\bin\Debug\Journal.exe
+C:\Users\CTAC\AppData\Local\Temporary Projects\Journal\bin\Debug\Journal.pdb
+C:\Users\CTAC\AppData\Local\Temporary Projects\Journal\obj\x86\Debug\Journal.Form1.resources
+C:\Users\CTAC\AppData\Local\Temporary Projects\Journal\obj\x86\Debug\Journal.Properties.Resources.resources
+C:\Users\CTAC\AppData\Local\Temporary Projects\Journal\obj\x86\Debug\Journal.csproj.GenerateResource.Cache
+C:\Users\CTAC\AppData\Local\Temporary Projects\Journal\obj\x86\Debug\Journal.exe
+C:\Users\CTAC\AppData\Local\Temporary Projects\Journal\obj\x86\Debug\Journal.pdb
+C:\Users\CTAC\documents\visual studio 2010\Projects\Journal\Journal\obj\x86\Debug\Journal.exe
+C:\Users\CTAC\documents\visual studio 2010\Projects\Journal\Journal\obj\x86\Debug\Journal.pdb
+C:\Users\CTAC\documents\visual studio 2010\Projects\Journal\Journal\bin\Debug\Journal.exe
+C:\Users\CTAC\documents\visual studio 2010\Projects\Journal\Journal\bin\Debug\Journal.pdb
+C:\Users\CTAC\documents\visual studio 2010\Projects\Journal\Journal\obj\x86\Debug\Journal.Form1.resources
+C:\Users\CTAC\documents\visual studio 2010\Projects\Journal\Journal\obj\x86\Debug\Journal.Properties.Resources.resources
+C:\Users\CTAC\documents\visual studio 2010\Projects\Journal\Journal\obj\x86\Debug\Journal.csproj.GenerateResource.Cache
+C:\Users\CTAC\documents\visual studio 2010\Projects\Journal\Journal\obj\x86\Debug\Journal.AddStudent.resources
+C:\Users\CTAC\documents\visual studio 2010\Projects\Journal\Journal\obj\x86\Debug\Journal.InfoStudent.resources
+E:\Институт\Мерген\Journal\Journal\obj\x86\Debug\Journal.exe
+E:\Институт\Мерген\Journal\Journal\obj\x86\Debug\Journal.pdb
+E:\Институт\Мерген\Journal\Journal\bin\Debug\Journal.exe
+E:\Институт\Мерген\Journal\Journal\bin\Debug\Journal.pdb
+E:\Институт\Мерген\Journal\Journal\obj\x86\Debug\Journal.AddStudent.resources
+E:\Институт\Мерген\Journal\Journal\obj\x86\Debug\Journal.Form1.resources
+E:\Институт\Мерген\Journal\Journal\obj\x86\Debug\Journal.InfoStudent.resources
+E:\Институт\Мерген\Journal\Journal\obj\x86\Debug\Journal.Properties.Resources.resources
+E:\Институт\Мерген\Journal\Journal\obj\x86\Debug\Journal.csproj.GenerateResource.Cache
