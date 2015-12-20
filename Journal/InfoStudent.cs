@@ -23,7 +23,7 @@ namespace Journal
             InitializeComponent();
             label5.Text = name;
             label6.Text = group;
-            label7.Text = late + " мин.";
+            label7.Text = late + " сек.";
             newlate = late;
         }
 
