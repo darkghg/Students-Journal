@@ -33,7 +33,7 @@ namespace Journal
                     return;
                 }
 
-                dataGridView1.Rows.Clear();// очистим таблицу
+                dataGridView1.Rows.Clear();// очистим таблицу Танюха была здесь
 
                 while (n > 0)// загрузим данные
                 {
