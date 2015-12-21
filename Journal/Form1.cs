@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 using System.Runtime.Serialization;
-using System.Runtime.Serialization.Formatters.Binary;
+using System.Runtime.Serialization.Formatters.Binary ;
 using System.IO;
 
 namespace Journal
@@ -33,7 +33,7 @@ namespace Journal
                     return;
                 }
 
-                dataGridView1.Rows.Clear();// очистим таблицу
+                dataGridView1.Rows.Clear();// очистим таблицу Танюха была здесь
 
                 while (n > 0)// загрузим данные
                 {
